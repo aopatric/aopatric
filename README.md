@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there, I'm Angel. 👋
+
+I'm a ML research engineer with a passion for bridging the gap between theory and practice in machine learning. My research interests mainly lie in the areas of **interpretability + alignment**, **optimization**, and **LM reasoning**, but I've previously worked with RL, evolutionary methods, and more.
+
+I've worked with the MIT Media Lab, MIT IMES, and MIT CSAIL, where I spent my undergrad working on [distributed ML](https://dl.acm.org/doi/10.1145/3737899.3768523) and tooling for various research projects in MIT labs.
+
+I'm currently based in Boston, Massachusetts where I'm working on a few independent projects in interpretability and RL.
+
+Always open to questions or collaborations at aopatric@alum.mit.edu.
 
 <!--
 **aopatric/aopatric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
