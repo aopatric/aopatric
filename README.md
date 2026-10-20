@@ -1,22 +1,7 @@
-## Hi there, I'm Angel. 👋
+Hi! My name is Angel.
 
-I'm a recent MIT grad and current MIT MEng with a passion for bridging the gap between theory and practice in machine learning. My research interests mainly lie in the areas of **interpretability + alignment**, **optimization**, and **LM reasoning**, but I have previous experience with RL, evolutionary methods, and more.
+I'm a recent MIT grad and incoming MIT MEng with a passion for understanding the mechanisms by which language models perform computation. My research interests mainly fall under the umbrellas of **interpretability + alignment**, **optimization**, and **LM reasoning**, but I have some background in RL, ML4Bio, LM evals, and more.
 
-I've worked with the MIT Media Lab, MIT IMES, and MIT CSAIL, where I spent my undergrad working on [distributed ML](https://dl.acm.org/doi/10.1145/3737899.3768523) and tooling for various research projects. Since graduating, most of my work has been explorations into the effectiveness of model steering and linear probing as methods of understanding the propensity for reward hacking in LLMs. I'm currently based in Boston, Massachusetts where I'm working on a few other things in interp and RL.
+My undergraduate research background is made up of time with the Media Lab, IMES, and CSAIL, where I spent my undergrad engineering for various research projects in ML. Since graduating, most of my work has consisted of explorations into the effectiveness of existing interpretability tools for new architectures and studying reward hacking in broadly applied ones. I'm currently based in Boston, Massachusetts.
 
-Always open to questions or collaborations at aopatric@alum.mit.edu.
-
-<!--
-**aopatric/aopatric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Always open to questions or collaborations at aopatric@mit.edu.
